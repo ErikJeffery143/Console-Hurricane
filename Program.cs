@@ -10,10 +10,10 @@ namespace Console_Hurricane
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Please enter a NUMBER 1-5.");
             int category = Convert.ToInt32(Console.ReadLine());
            
-
+            
             switch (category)
             {
                 case 1:
