@@ -39,7 +39,7 @@ namespace Console_Hurricane
                 default:
                     Console.WriteLine("Unknown Category.");
                     break;
-
+                     
 
                     
 
